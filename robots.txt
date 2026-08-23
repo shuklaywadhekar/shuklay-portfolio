@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.shuklaywadhekar.com/sitemap.xml
+Sitemap: https://shuklaywadhekar.github.io/shuklay-portfolio/sitemap.xml
