@@ -1,0 +1,5 @@
+# robots.txt for Shuklay Wadhekar Cinematic Portfolio
+User-agent: *
+Allow: /
+
+Sitemap: https://www.shuklaywadhekar.com/sitemap.xml
